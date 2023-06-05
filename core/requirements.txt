@@ -1,2 +1,3 @@
 coderedcms==2.1.*
 wagtail==4.2.*
+django-browser-reload
