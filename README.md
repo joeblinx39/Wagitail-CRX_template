@@ -1,0 +1,1 @@
+# WagitailCRX_template
